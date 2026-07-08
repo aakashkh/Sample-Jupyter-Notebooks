@@ -23,6 +23,7 @@ A curated collection of Jupyter notebooks covering Python, data manipulation, vi
 | [Indexing and Sorting a dataframe using iloc and loc](pandas/Indexing%20and%20Sorting%20a%20dataframe%20using%20iloc%20and%20loc.ipynb) | Label vs position-based indexing, multi-level sorting |
 | [Filtering using mask and where in pandas](pandas/Filtering%20using%20mask%20and%20where%20in%20pandas.ipynb) | Boolean masks, `.where()`, `.mask()` for conditional filtering |
 | [Functions using apply, applymap and map](pandas/Functions%20using%20apply,%20applymap%20and%20map.ipynb) | Applying functions element-wise and row/column-wise |
+| [Combining and Reshaping DataFrames](pandas/Combining%20and%20Reshaping%20DataFrames.ipynb) | `merge()`, `concat()`, `melt()`, `pivot()`, `pivot_table()` — with pitfalls |
 
 ---
 
